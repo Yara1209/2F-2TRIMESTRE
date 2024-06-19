@@ -1,3 +1,13 @@
-.menu-hamburguer{
-    background-image: url();
-}
+    .cabecalho{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .menu-cabecalho{
+        width: 24px;
+        height: 24px;
+        display: inline-block;
+        background-image: url(../img/alurabooks/menu.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+    }
