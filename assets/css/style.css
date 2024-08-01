@@ -3,13 +3,13 @@
 @import url(banner.css);
 
     :root{
-        --branco:#FFFFFF;
-        --cor-de-fundo:#EBECCE;
-        --laranja:#EB9B00;
+        --branco:#ffffff;
+        --cor-de-fundo:#ebecce;
+        --laranja:#eb9b00;
         --azul-degrade:linear-gradient(97,56deg,#002f52 35,49%,#326589 165,37%);
     }
     body{background-color: var(--cor-de-fundo);
-        font-family: "poppins",sans-serif;
+        font-family: "Poppins",sans-serif;
     }
 
     
