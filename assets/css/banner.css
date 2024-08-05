@@ -19,7 +19,9 @@
     border-radius:24px;
     padding:1em;
     width: 100%;
-    background: url("../img/pesquisa/no repeat");
+    background: url("../img/pesquisa/svg")no-repeat;
+    background-position: 1em;
+    text-align: center;
 }
 .banner-pesquisa::placeholder{
     font-family: Poppins,sans-serif;

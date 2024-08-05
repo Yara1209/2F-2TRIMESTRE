@@ -1,6 +1,8 @@
 @import url(reset.css);
 @import url(header.css);
 @import url(banner.css);
+@import url(carrossel.css);
+
 
     :root{
         --branco:#ffffff;
