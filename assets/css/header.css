@@ -27,7 +27,7 @@ text-transform:uppercase
     display: block;
 }
 .menu-lista-item, .menu-lista-titulo{
-    background-color: greenyellow;
+    background-color: var(--branco);
     padding: 1em;
 }
 .menu-lista-titulo{
