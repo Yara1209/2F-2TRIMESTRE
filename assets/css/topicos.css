@@ -1,0 +1,13 @@
+.topicos{
+    background-color: var(--azul-degrade);
+
+}
+.topicos-titulo{
+    color: var(--branco);
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 1em;
+}
+.topicos-lista{
+    
+}
